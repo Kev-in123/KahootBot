@@ -18,7 +18,7 @@ class Bot():
         self.game_pin = game_pin
         self.name = name or "".join(
             random.choice(f"{string.ascii_uppercase}{string.ascii_lowercase}{string.digits}")
-            for n in range(5)
+            for n in range(7)
         )
 
     def __enter__(self):
