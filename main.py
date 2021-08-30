@@ -9,15 +9,6 @@ kahoot_bot.start()
 
 ########## OR ##########
 
-Bot(game_pin = "", name = "").start()
-
-########## OR ##########
-
-with Bot(game_pin = "", name = "") as k: 
-  k.start()
-
-########## OR ##########
-
 bot = Bot(game_pin = "", name = "") 
 
 with bot as k: 
