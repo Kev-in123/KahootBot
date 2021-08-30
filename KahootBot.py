@@ -13,7 +13,7 @@ buttons=['//*[@id="root"]/div/main/div[2]/div/div/button[1]',
          '//*[@id="root"]/div/main/div[2]/div/div/button[3]',
          '//*[@id="root"]/div/main/div[2]/div/div/button[4]']
 
-class Bot():
+class Bot:
     def __init__(self, game_pin, name = None):
         self.game_pin = game_pin
         self.name = name or "".join(
