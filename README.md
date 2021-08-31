@@ -15,14 +15,14 @@ Instructions
 Notes
 ------------------------------------------  
 
-You could open the file with a normal text editor, add the game pin and a optional name, and run the file from the command line
+ - You could open the file with a normal text editor, add the game pin and a optional name, and run the file from the command line.
 
-When I say random I mean something like '7RYuCoT'
+ - When I say random I mean something like '7RYuCoT'.
 
-If you want to use a specific driver, you need the corresponding browser.
+ - If you want to use a specific driver, you need the corresponding browser.
 
 
 TODO
 ------------------------------------------
 
-Make a better name generator
+ - Make a better name generator
