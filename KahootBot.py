@@ -24,7 +24,7 @@ class Bot:
     def __enter__(self):
         return self
         
-    def __exit__(self, type, value, traceback):
+    def __exit__(self, *args):
         pass
 
     def start(self):
