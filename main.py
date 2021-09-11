@@ -4,12 +4,16 @@ from KahootBot import Bot
 # Check README for details
 
 
-kahoot_bot = Bot(game_pin = "", name = "")
-kahoot_bot.start()
-
-########## OR ##########
 
 bot = Bot(game_pin = "", name = "") 
 
+########## Use ##########
+
 with bot as k: 
   k.start()
+
+########## OR ##########
+
+bot.start()
+
+#delete the one you're not using
