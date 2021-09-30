@@ -4,7 +4,7 @@ Add bots into a kahoot game that randomly selects answers
 Instructions
 ------------------------------------------  
    1.  Download [Python](https://www.python.org/downloads/) (you will need to install with pip)
-   2.  Open cmd (command prompt) and type `pip install selenium` (Linux/MacOS users open your command line)
+   2.  Open cmd (command prompt) and type `pip install selenium` (Linux/MacOS users open your command line and run your version of the command)
    3.  Download any code editor/IDE that can run python. I use [VS code](https://code.visualstudio.com/) with a [python extension](https://code.visualstudio.com/docs/languages/python) 
    4.  Download [Geckodriver](https://github.com/mozilla/geckodriver/releases) (if you know how selenium works, you can download a different driver and edit the code correspondingly) and place it directly in the C:\ drive (Windows). If you know how paths work, place it wherever you want and change the path. If you use Linux/MacOS you should know how to use paths on said OS
    5.  After you install a driver, download the files
